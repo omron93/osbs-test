@@ -1,4 +1,4 @@
-FROM rhel7
+FROM brew/rhel7
 MAINTAINER  Jakub Hadvig <jhadvig@redhat.com>
 
 # MongoDB image for OpenShift.
